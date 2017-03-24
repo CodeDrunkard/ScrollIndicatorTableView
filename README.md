@@ -1,4 +1,4 @@
 # ScrollIndicatorTableView
 Custom Scroll Indicator for TableView
 
-![](Images/IMG_0273.png)
+![](Images/IMG0273.png)
